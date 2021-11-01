@@ -1,0 +1,3 @@
+.byebug_history
+*.sqlite3
+lib/tsc/conf/channel_and_mod_list.json
